@@ -9,7 +9,7 @@ namespace OlaMundo
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bye World!");
 
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
